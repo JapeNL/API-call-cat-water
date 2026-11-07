@@ -21,11 +21,37 @@ Here's a blank template to get started. To avoid retyping too much info, do a se
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+# Water Quantity in the Dams of Catalonia Internal Basins
 
+This dataset provides the daily historical status of the reservoirs within the Internal Basins of Catalonia. It tracks water levels, stored volumes, and the percentage capacity relative to the maximum capacity of each reservoir.
+
+## Dataset Overview
+
+| Attribute | Details |
+| :--- | :--- |
+| **Provider** | Catalan Water Agency (ACA) |
+| **Category** | Environment |
+| **Update Frequency** | Daily |
+| **Total Rows** | 88.3K |
+| **Total Columns** | 5 |
+
+## Schema Documentation
+
+Below are the details for each API field included in this dataset:
+
+| Column Name | Description | API Field Name | Data Type |
+| :--- | :--- | :--- | :--- |
+| **Day** | Date the measurement was taken | `day` | Floating timestamp |
+| **Station** | Reservoir where the measurement was taken | `station` | Text |
+| **Absolute level (msnm)** | Water level (msnm) measured in the reservoir | `absolute_level` | Number |
+| **Percentage of volume stored (%)** | Percentage of water volume in relation to the maximum capacity of the reservoir | `reservoir_volume_percentage` | Number |
+| **Reservoir volume (hm3)** | Volume of water (hm3) to which the measured level corresponds | `reservoir_volume` | Number |
+
+## Tags
+`reservoirs`, `level`, `msnm`, `volume`, `hm3`, `percentage`, `ods6_clean water and sanitation`, `ods13_climate action`, `ods12_responsible production and consumption`
 
 ### Built With
 
-* [![Python][Python]][Python-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
