@@ -1,0 +1,77 @@
+{
+    "@odata.context": "https://analisi.transparenciacatalunya.cat/api/odata/v4/$metadata#gn9e-3qhr",
+    "value": [
+        {
+            "__id": "row-7va3~8thj-fqgv",
+            "dia": "2026-11-06T00:00:00.000",
+            "estaci": "Embassament de Foix (Castellet i la Gornal)",
+            "nivell_absolut": 98.35,
+            "percentatge_volum_embassat": 64.4,
+            "volum_embassat": 2.17
+        },
+        {
+            "__id": "row-q6gs_zskh.79ta",
+            "dia": "2026-11-06T00:00:00.000",
+            "estaci": "Embassament de la Baells (Cercs)",
+            "nivell_absolut": 624.39,
+            "percentatge_volum_embassat": 82.4,
+            "volum_embassat": 89.6
+        },
+        {
+            "__id": "row-wwqv~mvde-9itw",
+            "dia": "2026-11-06T00:00:00.000",
+            "estaci": "Embassament de Sau (Vilanova de Sau)",
+            "nivell_absolut": 415.95,
+            "percentatge_volum_embassat": 70.6,
+            "volum_embassat": 117.03
+        },
+        {
+            "__id": "row-8an3-h9b2-xsj5",
+            "dia": "2026-11-06T00:00:00.000",
+            "estaci": "Embassament de Darnius Boadella (Darnius)",
+            "nivell_absolut": 151.28,
+            "percentatge_volum_embassat": 60.6,
+            "volum_embassat": 38.39
+        },
+        {
+            "__id": "row-g3e4-a7e4-s3z8",
+            "dia": "2026-11-06T00:00:00.000",
+            "estaci": "Embassament de Susqueda (Osor)",
+            "nivell_absolut": 345.24,
+            "percentatge_volum_embassat": 86.2,
+            "volum_embassat": 192.75
+        },
+        {
+            "__id": "row-qdby-7ury_cb66",
+            "dia": "2026-11-06T00:00:00.000",
+            "estaci": "Embassament de Sant Pon\u00e7 (Clariana de Cardener)",
+            "nivell_absolut": 528.05,
+            "percentatge_volum_embassat": 89,
+            "volum_embassat": 21.72
+        },
+        {
+            "__id": "row-katp.brfz_jkf9",
+            "dia": "2026-11-06T00:00:00.000",
+            "estaci": "Embassament de la Llosa del Cavall (Nav\u00e8s)",
+            "nivell_absolut": 801.2,
+            "percentatge_volum_embassat": 83.1,
+            "volum_embassat": 59.5
+        },
+        {
+            "__id": "row-588u-hksu-tzb9",
+            "dia": "2026-11-06T00:00:00.000",
+            "estaci": "Embassament de Siurana (Cornudella de Montsant)",
+            "nivell_absolut": 480.52,
+            "percentatge_volum_embassat": 71,
+            "volum_embassat": 8.53
+        },
+        {
+            "__id": "row-ftjz_vrh3~bjin",
+            "dia": "2026-11-06T00:00:00.000",
+            "estaci": "Embassament de Riudecanyes",
+            "nivell_absolut": 206.3,
+            "percentatge_volum_embassat": 26.8,
+            "volum_embassat": 1.43
+        }
+    ]
+}
